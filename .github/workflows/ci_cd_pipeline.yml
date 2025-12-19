@@ -1,4 +1,4 @@
-#ci_cdpipeline.yml
+#iris_clustering.yml
 name: CI/CD Pipeline
 
 on:
